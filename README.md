@@ -104,14 +104,8 @@ The blockchain is saved to `blockchain.json` in the project's root directory, pr
    cargo run -- validate
    ```
 
-## Contributing
-Contributions are welcome! Please fork this repository and submit pull requests with improvements, optimizations, or bug fixes.
 
-## License
-This project is licensed under the MIT License.
-
-
-
+## Notes
 This README aims to outline how to install, run, and use the Rust blockchain project, and guides users through typical operations like adding blocks, viewing, and validating the chain. Cheers!
 
 ---
