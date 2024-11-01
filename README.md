@@ -6,6 +6,9 @@ A simple blockchain implemented in Rust, designed to help you learn the foundati
 
 This project was created as part of a personal learning journey, sharing to aid others, not intended for production use. It is a simple implementation of a blockchain, but it does not include features such as smart contracts or decentralized applications (DApps).
 
+## WARNING
+In the root folder of this project, there should be a file called "blockchain.json". it is included in gitignore by default to protect data on local from being pushed to github. If you fork this project, you will need to manually create this file in the root folder and remove it from gitignore. Thank you.
+
 ## Features
 - **Genesis Block Creation**: Initializes the blockchain with a unique genesis block.
 - **Adding New Blocks**: Append new blocks with data to the chain.
